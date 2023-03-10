@@ -4,6 +4,7 @@
 - Main languages are C#, Python and Rust
 
 I'm not doing specific type of projects, just what I want to do at the moment
+Thought I'd like to stick to making smaller, command-line tools
 
 # Also tried
 - HTML/JS
