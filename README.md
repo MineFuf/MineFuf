@@ -7,6 +7,8 @@ I'm not doing specific type of projects, just what I want to do at the moment
 
 # Also tried
 - HTML/JS
+  - React/Next
+  - Mineflayer
 - Go (sucks hard, prove me wrong)
 - Java/Kotlin
 - C/C++
