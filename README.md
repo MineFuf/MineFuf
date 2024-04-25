@@ -31,4 +31,6 @@ For some unknown reasons, THE project of mine is [TMaze](https://github.com/ur-f
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/65a052a3-b361-4d04-8aa0-3889d38a4876.svg?style=flat)](https://wakatime.com/@65a052a3-b361-4d04-8aa0-3889d38a4876)
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ur_fault/09d4d2a2-813a-4ab6-99ca-a7434765fcaf.png" /></a>
