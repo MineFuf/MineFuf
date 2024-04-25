@@ -17,7 +17,7 @@ For some unknown reasons, THE project of mine is [TMaze](https://github.com/ur-f
 ---
 
 # So in summary:
-## Somewhat okay
+## Main ones
 - Rust
 - Python
 - C#
