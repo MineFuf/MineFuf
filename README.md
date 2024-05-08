@@ -12,7 +12,7 @@ I'm not working on a specific type of projects, just what I want to do at the mo
 
 ## TMaze
 
-For some unknown reasons, THE main project of mine is [TMaze](https://github.com/ur-fault/TMaze). It's literally just a game about solving mazes, it runs in the terminal and is written in Rust. I use it as goto project for trying stuff out, so it has things like Dockerfile, sounds, GitHub Actions releases, assets. There are some huge things planned (modding support), and hopefully multiplayer, althought it's planned to add as a mod.
+For some unknown reasons, THE main project of mine is [TMaze](https://github.com/ur-fault/TMaze). It's literally just a game about solving mazes, it runs in the terminal and is written in Rust. I use it as goto project for trying stuff out, so it has things like Dockerfile, sounds, GitHub Actions releases, assets. There are some huge things planned (modding support), and hopefully multiplayer, althought it's planned to be added as a mod.
 
 ---
 
